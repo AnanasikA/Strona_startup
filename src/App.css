@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* Stylizacja animowanego gradientu */
+.bg-gradient-animation {
+  position: relative;
+  overflow: hidden;
+}
+
+.bg-gradient-animation::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(135deg, #ff0080, #7928ca, #2af598);
+  background-size: 300% 300%;
+  z-index: 1;
+  opacity: 0.5;
+  animation: gradientAnimation 10s ease infinite;
+}
+
+@keyframes gradientAnimation {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
