@@ -1,7 +1,7 @@
 {
   "name": "leading-page-startup",
   "version": "0.1.0",
-  "homepage": "https://github.com/ananasika/strona-startup-u",
+  "homepage": "https://ananasika.github.io/Strona-startup-u",
   "private": true,
   "dependencies": {
     "@tailwindcss/typography": "^0.5.15",
