@@ -1,22 +1,15 @@
 {
   "files": {
-    "main.css": "/Strona_startup/static/css/main.f8127b8f.css",
-    "main.js": "/Strona_startup/static/js/main.d85484ac.js",
+    "main.css": "/Strona_startup/static/css/main.ec48d133.css",
+    "main.js": "/Strona_startup/static/js/main.ec735061.js",
     "static/js/453.dcd1dcfa.chunk.js": "/Strona_startup/static/js/453.dcd1dcfa.chunk.js",
-    "static/media/cybersecurity.png": "/Strona_startup/static/media/cybersecurity.d8bd479463ff1560003d.png",
-    "static/media/ai.png": "/Strona_startup/static/media/ai.85ac1a26a8cd121900ae.png",
-    "static/media/partner2.png": "/Strona_startup/static/media/partner2.c38adde7391f9d9bb610.png",
-    "static/media/automation.png": "/Strona_startup/static/media/automation.36be4fd91e907c3e8911.png",
-    "static/media/partner1.png": "/Strona_startup/static/media/partner1.66799a3d98e94218a7ed.png",
-    "static/media/partner3.png": "/Strona_startup/static/media/partner3.884eb85f427d3f2e6dfc.png",
-    "static/media/iot.png": "/Strona_startup/static/media/iot.5f99d02e016e7dd460af.png",
     "index.html": "/Strona_startup/index.html",
-    "main.f8127b8f.css.map": "/Strona_startup/static/css/main.f8127b8f.css.map",
-    "main.d85484ac.js.map": "/Strona_startup/static/js/main.d85484ac.js.map",
+    "main.ec48d133.css.map": "/Strona_startup/static/css/main.ec48d133.css.map",
+    "main.ec735061.js.map": "/Strona_startup/static/js/main.ec735061.js.map",
     "453.dcd1dcfa.chunk.js.map": "/Strona_startup/static/js/453.dcd1dcfa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8127b8f.css",
-    "static/js/main.d85484ac.js"
+    "static/css/main.ec48d133.css",
+    "static/js/main.ec735061.js"
   ]
 }
